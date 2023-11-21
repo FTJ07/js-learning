@@ -9,3 +9,8 @@
 # CommonJS
   1. require is a function.
   2. 
+
+
+# BABEL
+    Its a js compiler convert latest JS to older one for support.
+
